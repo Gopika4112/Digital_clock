@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Clock</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="controls">
+        <div class="color-picker">
+            <input type="color" id="color" value="#ba7ed9" title="Choose a display color">
+        </div>
+        <button id="sound-toggle" title="Turn sound off">
+            Sound:On
+        </button>
+    </div>
+    <div class="clock">
+        <div class="time" id="time">12:00:00</div>
+        <div class="date" id="date">Sunday, January 1</div>
+    </div>
+    
+    <audio id="clock-sound" src="sound/clock_sound.mp3"></audio>
+    <script src="script.js"></script>
+</body>
+</html>
