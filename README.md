@@ -11,3 +11,11 @@ A beginner-friendly digital clock application created to learn and practice **HT
 ![Screenshot 2024-12-22 184141](https://github.com/user-attachments/assets/cc16143f-574e-413a-8295-177eea98e4f1)
 ![Screenshot 2024-12-22 184300](https://github.com/user-attachments/assets/d836f1d3-c4ac-4973-894f-cac893de61c8)
 
+
+## How to View
+You can view the digital clock
+
+https://gopika4112.github.io/Digital_clock/
+
+
+
